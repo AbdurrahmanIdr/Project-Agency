@@ -1,0 +1,202 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Ubuntu, Arial, Tahoma, Helvetica, Verdana, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+    background-color: white;
+    width: 100%;
+    height: 85px;
+    line-height: 150%;
+    padding-left: 3%;
+    padding-right: 3%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo_div {
+    float: left;
+}
+
+.logo_para {
+    border: 4px solid black;
+    padding: 6px 14px 6px 14px;
+}
+
+.logo li {
+    display: inline;
+    font-size: medium;
+}
+
+.logo a {
+    padding: 100% 15px 100% 15px
+}
+
+.logo a:link {
+    color: red;
+}
+
+.logo a:active {
+    color: cornflowerblue;
+    background-color: black;
+}
+
+.logo a:visited {
+    color: black;
+    background-color: cornflowerblue;
+}
+
+.logo a:hover {
+    background-color: cornflowerblue;
+    color: wheat;
+}
+
+.index_top {
+    background-color: black;
+    background-image: url(/images/HomeDesktopheader.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 600px;
+    padding-top: 15%;
+}
+
+.index_top_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: lightgray;
+}
+
+.main_div {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    overflow: hidden;
+    font-family: Ubuntu, Arial, sans-serif;
+    text-align: center;
+    color: rgba(50, 50, 50, 0.8);
+}
+
+.jumper {
+    position: fixed;
+    right: 10px;
+    bottom: 4px;
+}
+
+.c_map {
+    color: rgba(0, 200, 200, 1);
+    font-weight: bold;
+}
+
+.main_div1 {
+    padding: 5em 15px 3em;
+}
+
+.main_div1 h1 {
+    font-size: 2.2em;
+}
+
+.main_div1 p {
+    font-size: large;
+}
+
+.main_div2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: hidden;
+    text-align: left;
+    font-family: Arial, serif;
+    padding: 0 5% 0;
+}
+
+.main_div2_img {
+    width: 50%;
+    overflow: hidden;
+    padding: 0 0 0 5%;
+}
+
+.main_div2_img img {
+    max-width: 90%;
+    min-width: 70%;
+    height: 50%;
+    padding-left: 10%;
+    overflow: hidden;
+}
+
+.main_div2_div {
+    width: 50%;
+    overflow: hidden;
+    padding: 0 8% 0 0;
+}
+
+.main_div2_div p {
+    text-align: left;
+}
+
+.main_div2_div button {
+    margin-top: 10%;
+    text-align: left;
+    padding: 8px;
+    background-color: rgb(0, 200, 200);
+    color: white;
+    border-color: rgb(0, 200, 200);
+    font-size: large;
+}
+
+.index_about {
+    background-image: url(/images/GalleryDesktopheader.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: black;
+    width: 80%;
+    height: 500px;
+    padding: 8% 0% 8%;
+    color: white;
+    text-align: left;
+    overflow: hidden;
+    margin: 4em auto 3em auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-family: 'Roboto', 'Segoe UI', serif;
+    box-sizing: border-box;
+}
+
+.index_about_1 {
+    width: 50%;
+}
+
+.index_about_2 {
+    width: 50%;
+}
+
+.index_about_2 p {
+    border: 2px solid white;
+    font-size: 10em;
+    margin: 0;
+    text-align: center;
+}
+
