@@ -1,12 +1,16 @@
-total 61
--rw-r--r-- 1 197609    0 Aug 22 11:57 files.txt
-drwxr-xr-x 1 197609    0 Aug 22 11:56 images
-drwxr-xr-x 1 197609    0 Aug 22 11:56 css
--rw-r--r-- 1 197609 2530 Aug 22 11:55 contact.html
--rw-r--r-- 1 197609 2400 Aug 22 11:55 gallery.html
--rw-r--r-- 1 197609 9255 Aug 22 11:55 index.html
--rw-r--r-- 1 197609 1138 Aug 22 11:55 login.html
--rw-r--r-- 1 197609  237 Aug 22 11:55 README.md
--rw-r--r-- 1 197609 1272 Aug 22 11:55 services.html
--rw-r--r-- 1 197609  906 Aug 22 11:55 sorted.txt
--rw-r--r-- 1 197609 5140 Aug 22 11:55 about.html
+total 74K
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 22 11:38 .
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 16 16:22 ..
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 22 11:28 .git
+-rw-r--r-- 1 AbdlrhmanIdr 197609    7 Aug 22 11:25 .gitignore
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 21 12:03 .idea
+-rw-r--r-- 1 AbdlrhmanIdr 197609 5.1K Aug 19 18:05 about.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 2.5K Aug 19 18:05 contact.html
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 21 12:05 css
+-rw-r--r-- 1 AbdlrhmanIdr 197609    0 Aug 22 11:38 files.txt
+-rw-r--r-- 1 AbdlrhmanIdr 197609 2.4K Aug 19 18:05 gallery.html
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 17 15:17 images
+-rw-r--r-- 1 AbdlrhmanIdr 197609 9.1K Aug 21 16:06 index.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 1.2K Aug 19 18:06 login.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609  227 Aug 22 11:24 README.md
+-rw-r--r-- 1 AbdlrhmanIdr 197609 1.3K Aug 19 18:06 services.html
