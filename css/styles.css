@@ -171,31 +171,34 @@ a {
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-color: black;
-    width: 80%;
+    width: 85%;
     height: 500px;
-    padding: 8% 0% 8%;
+    padding: 5%;
     color: white;
     text-align: left;
-    overflow: hidden;
-    margin: 8% 5% 8%;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
+    display: block;
     font-family: 'Roboto', 'Segoe UI', serif;
-    box-sizing: border-box;
+    margin: 3em auto 2em;
+    overflow: hidden;
 }
 
 .index_about_1 {
     width: 50%;
+    float: left;
+    overflow: hidden;
 }
 
 .index_about_2 {
     width: 50%;
+    float: right;
+    overflow: hidden;
 }
 
 .index_about_2 p {
     border: 2px solid white;
     font-size: 10em;
+    margin: 0;
+    padding: 0;
     text-align: center;
 }
 
