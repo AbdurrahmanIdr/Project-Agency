@@ -1,0 +1,16 @@
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 16 16:22 ..
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 17 15:17 images
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 21 12:03 .idea
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 21 12:05 css
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 22 11:28 .git
+drwxr-xr-x 1 AbdlrhmanIdr 197609    0 Aug 22 11:38 .
+-rw-r--r-- 1 AbdlrhmanIdr 197609    7 Aug 22 11:25 .gitignore
+-rw-r--r-- 1 AbdlrhmanIdr 197609  227 Aug 22 11:24 README.md
+-rw-r--r-- 1 AbdlrhmanIdr 197609  906 Aug 22 11:38 files.txt
+-rw-r--r-- 1 AbdlrhmanIdr 197609 1.2K Aug 19 18:06 login.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 1.3K Aug 19 18:06 services.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 2.4K Aug 19 18:05 gallery.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 2.5K Aug 19 18:05 contact.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 5.1K Aug 19 18:05 about.html
+-rw-r--r-- 1 AbdlrhmanIdr 197609 9.1K Aug 21 16:06 index.html
+total 78K
